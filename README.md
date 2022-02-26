@@ -3,7 +3,7 @@
 
 ## Detail Aplikasi
 
-Hai teman-teman, <b>Spp Payment App</b> adalah sebuah aplikasi Pembayaran Spp yang dibangun dengan menggunakan framework Laravel, yang akan mempermudah baik petugas maupun siswa dalam melakukan transaksi pembayaran, aplikasi ini juga telah dilengkap dengan berbagai validasi data yang cukup lengkap, tapi inget woy karna app ini dibuat dengan waktu terbatas (app ini dibuat untuk nilai ujian) jadi aplikasi ini masih banyak kekurangan di beberapa aspek, tapi tenang Projek ini masih bisa di kembangkan kembali sesuai dengan keinginan. Syarat untuk clone projek ini simple, kalian cukup like dan follow akun github saya di https://github.com/pangestu-k , ya follow itu gratis gk si.. (¬‿¬)
+Hai teman-teman, <b>Spp Payment App</b> adalah sebuah aplikasi Pembayaran Spp yang dibangun dengan menggunakan framework Laravel, yang akan mempermudah baik petugas maupun siswa dalam melakukan transaksi pembayaran, aplikasi ini juga telah dilengkap dengan berbagai validasi data yang cukup lengkap, tapi inget woy karna app ini dibuat dengan waktu terbatas (app ini dibuat untuk nilai ujian) jadi aplikasi ini masih banyak kekurangan di beberapa aspek, tapi tenang Projek ini masih bisa di kembangkan kembali sesuai dengan keinginan. Syarat untuk clone projek ini simple, kalian cukup like dan follow akun github saya di https://github.com/pangestu-k , ya follow aja gk si.. (¬‿¬)
 
 
 <h3>Tata Cara Install 🌱</h3>
