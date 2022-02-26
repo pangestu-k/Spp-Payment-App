@@ -18,7 +18,7 @@ Hai teman-teman, <b>Spp Payment App</b> adalah sebuah aplikasi Pembayaran Spp ya
 - php artisan db:seed 
 
 <h6 class="text-gray">Email (admin/petugas) : admin@spp.com</h6>
-<h6 class="text-gray">Password	            : password</h6>
+<h6 class="text-gray">Password	            : password</h6> 
 
 
 Jika ada pertanyaan bisa langsung tanya di Instagram saya di @rizky.pangestu17 , jangan lupa like and follow ya 😏.
