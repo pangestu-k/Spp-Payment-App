@@ -15,6 +15,7 @@ Hai teman-teman, <b>Spp Payment App</b> adalah sebuah aplikasi Pembayaran Spp ya
 - Buat Table di mysql atau postgree (postgree ada konfigurasi sendiri)
 - Tulis nama table di file .env
 - php artisan migrate
+- php artisan db:seed 
 
 <h6 class="text-gray">Email (admin/petugas) : admin@spp.com</h6>
 <h6 class="text-gray">Password	            : password</h6>
