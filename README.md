@@ -9,7 +9,7 @@ Hai teman-teman, <b>Spp Payment App</b> adalah sebuah aplikasi Pembayaran Spp ya
 <h3>Tata Cara Install 🌱</h3>
 
 - composer install
-- cp .env.example .env
+- cp .env.example.env
 - php artisan key:generate
 - php artisan storage:link 
 - Buat Database di mysql atau postgree (postgree ada konfigurasi sendiri)
